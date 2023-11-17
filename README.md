@@ -13,7 +13,10 @@ I am a [Your Job Title/Student/Developer/etc.] with a passion for [mention your 
 
 ### My Skills
 
-- **Programming Languages:** [e.g., Python, JavaScript, C++]
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<!-- Add more badges as needed -->
+
 - **Tools & Technologies:** [e.g., React, Node.js, Docker]
 - **Interests:** [e.g., AI/ML, Web Development, IoT]
 
