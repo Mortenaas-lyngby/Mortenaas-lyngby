@@ -6,9 +6,9 @@
 
 I am a [Your Job Title/Student/Developer/etc.] with a passion for [mention your passions or interests in technology]. With experience in [mention any specific areas of expertise or industries], I enjoy working on projects that [mention the type of projects or challenges you like to tackle].
 
-- 🏫 Currently working at [Your Company/School/Independent].
+- 📫 Reach me at: [Your Email]
 - 🌍 Based in [Your Location].
-- 📫 Reach me at: [Your Email/LinkedIn/Twitter/etc.]
+- [LinkedIn Profile](Your-LinkedIn-URL)
 
 ## Education
 
@@ -34,11 +34,14 @@ Here are some of the projects I've worked on:
 - **Tools & Technologies:** [e.g., React, Node.js, Docker]
 - **Interests:** [e.g., AI/ML, Web Development, IoT]
 
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical)
+
 ## Connect with Me
 
 I'm always open to interesting conversations and collaboration opportunities. If you'd like to discuss tech, projects, or just say hi, reach out to me!
 
-- [LinkedIn Profile](Your-LinkedIn-URL)
 - [Twitter Handle](Your-Twitter-URL)
 - [Personal Website](Your-Website-URL)
 
